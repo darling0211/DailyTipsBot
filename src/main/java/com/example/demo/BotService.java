@@ -15,7 +15,7 @@ public class BotService extends TelegramLongPollingBot {
 
     // ✅ Your bot token & username
     private final String BOT_TOKEN = "8216545890:AAGes5adK3PF43R5XRagqbXxrM1kG0X4aFY";
-    private final String BOT_USERNAME = "Life_hackz_Bot";
+    private final String BOT_USERNAME = "Life_hackzs_Bot";
 
     // ✅ Store predefined daily business tips
     private final List<String> dailyTips = Arrays.asList(
